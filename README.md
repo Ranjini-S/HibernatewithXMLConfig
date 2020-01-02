@@ -1,0 +1,1 @@
+# HibernatewithXMLConfig
